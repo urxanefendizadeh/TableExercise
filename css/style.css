@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    width: 40%;
+    height: 54vh;
+    margin: 150px auto 0 auto;
+}
+tr > th{
+    background-color: #72A942;
+    color: #F9EFC3;
+    font-family: sans-serif;
+}
+#tr1 > td{
+    background-color: #C7DEB3;
+    font-family: sans-serif;
+}
+
+#tr2 > td{
+    background-color: #E2EED9;
+    font-family: sans-serif;
+}
+.text-align-end{
+    text-align: end;
+}
+.padding-right{
+    padding-right: 7px;
+}
+.padding-left{
+    padding-left: 8px;
+}
+.text-align-start{
+    text-align: start;
+}
